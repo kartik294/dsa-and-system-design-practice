@@ -39,5 +39,4 @@ Examples:
 
 ---
 
-## 📂 Folder Structure
 
